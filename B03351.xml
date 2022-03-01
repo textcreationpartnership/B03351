@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The form of the proceeding to the funeral of Her late Majesty Queen Mary II. Of blessed memory, from the royal palace of Whitehall to the Collegiate Church at Westminster; the 5th day of this instant March, 1694/5. To begin at twelve a clock. (To be punctually observed by all persons therein concerned.)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03351</idno>
+            <idno type="STC">Wing F1582B</idno>
+            <idno type="STC">ESTC R177185</idno>
+            <idno type="EEBO-CITATION">52211822</idno>
+            <idno type="OCLC">ocm 52211822</idno>
+            <idno type="VID">175674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175674)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The form of the proceeding to the funeral of Her late Majesty Queen Mary II. Of blessed memory, from the royal palace of Whitehall to the Collegiate Church at Westminster; the 5th day of this instant March, 1694/5. To begin at twelve a clock. (To be punctually observed by all persons therein concerned.)</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy: Printed by Edw. Jones,</publisher>
+                  <publisher>Re-printed by the heirs and successors of Andrew Anderson, Printer to his most excellent Majesty,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>169⁴/₅ ;</date>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Under title on p. 1: March 2. 169⁴/₅. I do appoint Edward Jones to print this account of the proceeding. Norfolke, and Marshall.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Death and burial --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175674:1"/>
+            <head>THE Form of the Proceeding TO THE FUNERAL <hi>Of Her Late Majeſty</hi> QUEEN MARY II. Of Bleſſed Memory, From the Royal Palace of <hi>Whitehall</hi> to the Col<g ref="char:EOLhyphen"/>legiate Church at <hi>VVeſtminſter;</hi> the <hi>5th</hi> Day of this Inſtant <hi>March, 1694/5.</hi> To begin at twelve a Clock.</head>
+            <p>(To be punctually Obſerved by all Perſons therein Concerned.)</p>
+            <div type="license">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>March</hi> 2. 1694/5</date>
+                  </dateline>
+               </opener>
+               <p>I do appoint <hi>Edward Jones</hi> to Print this Account of the Proceeding.</p>
+               <closer>
+                  <signed>
+                     <hi>NORFOLKE,</hi> and <hi>MARSHALL.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="procession_instructions">
+               <list>
+                  <item>KNight Marſhal's Men, to clear the way.<note place="margin">To meet in the Inner Court at <hi>Whitehall,</hi> where the Statue is.</note>
+                  </item>
+                  <item>Knight Marſhal's Deputy.</item>
+                  <item>Servants to the Officers of Arms.</item>
+                  <item>Three hundred poor Women, four and four.</item>
+               </list>
+               <list>
+                  <item>2 Trumpets.</item>
+                  <pb n="2" facs="tcp:175674:2"/>
+                  <item>The Banner of Union born by a Knight, Sir <hi>Philip Meadows.</hi>
+                  </item>
+                  <item>Grooms and Pages of the Chamber.</item>
+                  <item>Officers of the Stable.</item>
+                  <item>Houſe-keepers.</item>
+                  <item>Officers of the Robes, and Ward-robe.</item>
+                  <item>Gentlemen of the Chappel and Veſtry in Copes, and the Children of the Chappel ſinging all the way.</item>
+                  <item>2 Trumpets.</item>
+                  <item>Officers of the Jewel-houſe.</item>
+                  <item>Officers and Comptroller of the Works.</item>
+                  <item>Sewers of the Chamber.</item>
+                  <item>Gentlemen-Uſhers, Quarter-Waiters</item>
+                  <item>2 Trumpets.</item>
+                  <item>
+                     <note place="margin">To meet in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he King's Pri<g ref="char:EOLhyphen"/>vy-Lodgings, and Rooms adjoyning where they are to be put in order by the Officers of Arms.</note>Chaplains to the King and Queen.</item>
+                  <item>Aldermen of <hi>London.</hi>
+                  </item>
+                  <item>Surveyor-General of the Works, Sir <hi>Chriſtopher Wren,</hi> Kt.</item>
+                  <item>2 Trumpets.</item>
+                  <item>Twelve Gentlemen of the Privy-Chamber to the King and Queen,</item>
+                  <item>Eight whereof carry the Canopy; of which Number are to be Three of the Queen's Gentlemen-Uſhers of the Privy-Chamber Who are to attend with the Canopy at the Weſt Door of the Abbey, to receive and carry it over the Queen's Body when taken out of the Chariot.</item>
+                  <item>Carvers to the Queen.</item>
+                  <item>Cup-bearers to the Queen.</item>
+                  <item>Sewers. to the Queen.</item>
+                  <item>2 Trumpets.</item>
+                  <item>An Officer of Arms.</item>
+                  <item>The Queen's Secretary and Treaſurer.</item>
+                  <item>Knight-Harbinger, and Maſter of the Jewel-houſe.</item>
+                  <item>Lord Mayor of <hi>London.</hi>
+                  </item>
+                  <item>3 Trumpets.</item>
+                  <item>Two Officers of Arms.</item>
+                  <item>The Houſe of Commons.</item>
+                  <item>
+                     <note place="margin">To meet in the great Ban<g ref="char:EOLhyphen"/>queting Room.</note>Serjeant at Arms:</item>
+                  <item>Speaker of the Houſe of Commons:</item>
+                  <item>
+                     <note place="margin">To meet in the Council-Chamber and the Privy-Gallery and Fane Room.</note>Four Officers of Arms.</item>
+                  <item> The Houſe of Peers.</item>
+                  <item>Serjeant at Arms, and Uſher of the Black Rod.</item>
+                  <item>Speaker of the Houſe of Peers.</item>
+                  <pb n="3" facs="tcp:175674:2"/>
+                  <item>
+                     <note place="margin">
+                        <hi>Note,</hi> That at the Proceeding before the Body, the youngeſt of each Degree go foremoſt.</note>An Officer of Arms.</item>
+                  <item>The Banner of <hi>Cheſter,</hi> The Banner of <hi>Wales,</hi> The Banner of <hi>Cornwall,</hi> Born by LORDS.</item>
+                  <item>An Officer of Arms.</item>
+               </list>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The Banner of <hi>Ireland,</hi> by the Earl of <hi>Montrath.</hi>
+                        </cell>
+                        <cell>The Banner of <hi>Scotland,</hi> by the Earl of <hi>Selkirk.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <item>Two Officers of Arms.</item>
+               </list>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The Banner of <hi>France,</hi> and <hi>England</hi> quarterly,</cell>
+                        <cell>The Great Banner,</cell>
+                        <cell>The Banner of <hi>England.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <item>Born by EARLS.</item>
+                  <item>The Queen's Maſter of the Horſe, Lord Viſcount <hi>Villers,</hi>
+                     <note place="margin">Who after leaving the Horſe at the Door of the Church, is to go to his place among the Peers.</note> leading the Mourning Horſe; and two Equerries (with their Caps) attending.</item>
+                  <item>The Helmet and Creſt, born by an Officer of Arms.</item>
+                  <item>The Target, born by an Officer of Arms.</item>
+                  <item>The Sword, born by an Officer of Arms.</item>
+                  <item>The Coat of Arms, born by <hi>Norroy,</hi> King of Arms.</item>
+                  <item>The Queen's Lord Chamberlain, Lord Marquis of <hi>Wincheſter.</hi>
+                  </item>
+                  <item>The Church of <hi>Westminſter,</hi> at the entrance into the Abbey, are to fall into the Proceeding here.</item>
+                  <item>
+                     <hi>Clarenceux,</hi> King of Arms, (between two Gentlemen Uſhers) carrying the Scepters, Orb, and Crown, on a Cuſhion; except at ſuch time as the Body is in the Chariot: And then <hi>Clarenceux,</hi> with the two Gentle<g ref="char:EOLhyphen"/>men Uſhers, go before the Queen's Lord Chamberlain.</item>
+               </list>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>Six Bannerolls, born by
+<list>
+                                    <item>Sir <hi>T. Parkyns.</hi>
+                                    </item>
+                                    <item>Sir <hi>W. Roberts</hi>
+                                    </item>
+                                    <item>Sir <hi>W. Ruſſell.</hi>
+                                    </item>
+                                    <item>Sir D. <hi>Hampſon</hi>
+                                    </item>
+                                    <item>Sir <hi>W. Colepeper</hi>
+                                    </item>
+                                    <item>Sir <hi>W. Villers.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>Three Peers, Aſſiſtants to the Corps, or Supporters of the Pall.</cell>
+                        <cell>The Body, in an open Cha<g ref="char:EOLunhyphen"/>riot, drawn by eight Horſes, a Man to lead each Horſe; &amp; the Sceptres, Orb and Crown upon a Purple Velvet Cuſhi<g ref="char:EOLhyphen"/>on. Two of the Queen's Bed<g ref="char:EOLhyphen"/>chamber Wo<g ref="char:EOLhyphen"/>men, one ſiting at the Head, &amp; the other at the Feet, to take care of the Bo<g ref="char:EOLhyphen"/>dy.</cell>
+                        <cell>Three Peers, Aſſiſtants to the Corps, or Supporters of the Pall.</cell>
+                        <cell>
+                           <list>
+                              <item>Six Bannerolls, born by
+<list>
+                                    <item>Sir F. <hi>Head.</hi>
+                                    </item>
+                                    <item>Sir E. <hi>Warde.</hi>
+                                    </item>
+                                    <item>Sir <hi>Ste. Lennard.</hi>
+                                    </item>
+                                    <item>Sir <hi>W. Recesby.</hi>
+                                    </item>
+                                    <item>Sir <hi>Cl. Fiſher.</hi>
+                                    </item>
+                                    <item>Sir <hi>J. Cope.</hi>
+                                       <note place="margin">The 12 Ba<g ref="char:EOLhyphen"/>ronets and Knights to meet in the Preſence next the, Guard Room.</note>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Gentleman-Uſher,</cell>
+                        <cell>
+                           <hi>Garter</hi> King of Arms,</cell>
+                        <cell>Gentleman-Uſher,<note place="margin">At the Abby door The two Gentlemen Uſhers are to take Care the two Ladies be helpt out of the Chariot, and led to their places among the Bed-chamber Women.</note>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Earl of <hi>Pembroke, Lord Privy Seal.</hi>
+                        </cell>
+                        <cell>The Chief Mourner,Dutches of <hi>Sommerſet,</hi> ſup<g ref="char:EOLhyphen"/>ported by two Noblemen. Her Train born by two Dutches, </cell>
+                        <cell>Duke of <hi>Leeds,</hi> Lord Preſident of His Majeſties Council.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <p>Dutches of St. <hi>Albans,</hi> Dutches of <hi>Southampton.</hi>
+                           </p> 
+                           <p>Aſſiſted by the Queen's Vice-Chamberlain, Mr. <hi>Sayres.</hi>
+                           </p>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="4" facs="tcp:175674:3"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">Eighteen Aſſiſtants to the Chief Mourner, <hi>&amp;c.</hi>
+                           <note place="margin">To meet in the Privy-Lodgings on the Queen's Side.</note>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>The Dutches of <hi>Devonſhire.</hi>
+                              </item>
+                              <item> Counteſs of <hi>Bridgwater,</hi>
+                              </item>
+                              <item>Counteſs Dowager of <hi>Winchelſea,</hi>
+                              </item>
+                              <item>Counteſs Dowager of <hi>Thannet,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Sandwich.</hi>
+                              </item>
+                              <item>Counteſs Dowager of <hi>Radnor,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Monmouth,</hi>
+                              </item>
+                              <item>Lady <hi>Howard</hi> of <hi>Effingham,</hi>
+                              </item>
+                              <item>Baroneſs <hi>Weſton</hi> Counteſs of <hi>Arran,</hi>
+                              </item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>The Dutches of <hi>Leeds.</hi>
+                              </item>
+                              <item>Counteſs of <hi>Oxford,</hi>
+                              </item>
+                              <item>Counteſs Dowager of <hi>Northampton,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Carnarvan,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Sunderland,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Macclesfield,,</hi>
+                              </item>
+                              <item>Counteſs of <hi>Dorchester,</hi>
+                              </item>
+                              <item>Lady <hi>Eliz. Cromwel</hi> Baroneſs <hi>Crom<g ref="char:EOLhyphen"/>well</hi>
+                              </item>
+                              <item>Lady <hi>Rockingham.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <item>Two Gentlemen-Uſhers.</item>
+                  <item>Six Ladies of the Bed-chamber.</item>
+                  <item>Six Maids of Honour.</item>
+                  <item>Six Bed-chamber Women:</item>
+                  <item>The Band of Penſioners.</item>
+                  <item>Yeomen of the Guard.</item>
+               </list>
+               <p>When the Body is placed in the <hi>Mauſoleum</hi> the Chief Mourner is to be ſeated in an Arm'd Chair at the Head of the Body.</p>
+               <p>The Supporters to the Train on two Stools with low backs, a little behind her.</p>
+               <p>The Ladies of the Bed Chamber within the <hi>Mauſoleum,</hi> three on each ſide of the Body.</p>
+               <p>The Aſſiſtants to ſit within the firſt Rail without the <hi>Mauſoleum</hi>
+               </p>
+               <p>The Queen's Lord-Chamberlain to have a black Velvet Stool to ſit near the Foot of the <hi>Mauſoleum.</hi>
+               </p>
+               <p>
+                  <note place="margin">To meet in the Guard-Room.</note> The Band of Penſioners are to go in Order ſingle on each ſide the outward Rail; and then two and two into the South Iſle leading to <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Seventh's Chapel, and ſtand there on each ſide, and when the fol<g ref="char:EOLhyphen"/>lowing Proceeding goes to the Interment, then the Penſioners are to follow to the Chapel Door, but no further.</p>
+               <p>The Yeomen of the Guard are to ſtay on each ſide the Organ Quire, from the Quire Door up to the Rail.</p>
+               <div type="part">
+                  <head>Proceedings to the Interrment after the Sermon.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label" cols="3">The Queen's State.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <note place="margin">
+                                 <hi>Note,</hi> All Per<g ref="char:EOLhyphen"/>ſons that ſhall have Tickets for Places within the Collegiate Church at <hi>Weſtminſter</hi> from the Duke of <hi>Norfolke,</hi> are to take Notice, that no Perſon can be ſet in after Twelve a Clock but thoſe who go in the Pro<g ref="char:EOLhyphen"/>ceeding.</note>The Queen's Maſter of the Horſe. </cell>
+                           <cell> </cell>
+                           <cell>The Queen's Lord Chamberlain</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">The Church of <hi>Weſtminſter,</hi> and both Choirs.</cell>
+                        </row>
+                        <row>
+                           <cell>The 3 Supporters of the Pall.</cell>
+                           <cell>
+                              <hi>The Body</hi>
+                           </cell>
+                           <cell>The 3 Supporters of the Pall.</cell>
+                        </row>
+                        <row>
+                           <cell>Supporter to the Chief Mourner.</cell>
+                           <cell>The Chief Mourner.</cell>
+                           <cell>Supporter to the Chief Mourner.</cell>
+                        </row>
+                        <row>
+                           <cell>Supporter to the Train.</cell>
+                           <cell> </cell>
+                           <cell>Supporter to the Train.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <list>
+                        <item>Vice Chamberlain</item>
+                        <item>Ladies Aſſiſtants.</item>
+                        <item>Ladies of the Bed-Chamber.</item>
+                        <item>Maids of Honour.</item>
+                        <item>Bed-Chamber Women.</item>
+                        <item>Gentlemen Penſioners to the Chapel Door.</item>
+                        <item>Some Yeomen of the Guard to keep the Door.</item>
+                     </list>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>Edw. Jones,</hi> 169<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>EDINBURGH,</hi> Reprinted by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to his moſt excellent Majeſty, 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
